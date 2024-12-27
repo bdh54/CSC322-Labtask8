@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/zdfKz7Im)
-he Marina Manager of Nautical Ventures needs a simple program to track the various boats stored and being repaired at the marina, and the charges being levied on each:
+
+The Marina Manager of Nautical Ventures needs a simple program to track the various boats stored and being repaired at the marina, and the charges being levied on each:
 
 Boats in slips - $12.50/foot/month
 Boats on land for work - $14.00/foot/month
